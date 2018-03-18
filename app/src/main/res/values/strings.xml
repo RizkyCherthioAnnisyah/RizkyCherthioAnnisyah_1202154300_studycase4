@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RIZKYCHERTHIOANNISYAH_1202154300_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Rani Yuanita</item>
+        <item>Nadya Klarisa</item>
+        <item>Rahmah Selasmi</item>
+        <item>Ulfa Faadhilah</item>
+        <item>Fahrul Fikri</item>
+        <item>Ahmad Rifqi</item>
+        <item>Fathul Hidayat</item>
+        <item>Nesa Zahara</item>
+        <item>Miftahul Rizka</item>
+        <item>Riska Asria</item>
+        <item>Holida</item>
+        <item>Maulida Hadini</item>
+        <item>Mori Hofipah</item>
+
+    </string-array>
+</resources>
